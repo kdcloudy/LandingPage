@@ -1,2 +1,2 @@
-# LandingPage
-A small, simple website for my personal brand KDCloudy for future portfolios.
+# kdcloudy dot com
+a very simple static implementation of social media links using HTML CSS only.
